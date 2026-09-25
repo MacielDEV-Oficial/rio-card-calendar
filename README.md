@@ -1,14 +1,18 @@
-# Welcome to your Lovable project
+# Rio Card Planner
+
+eentão eu faça curso de segunda a sexta apartir das 8 até 12:00 quero cria um sistem que fuciona com um tipo de calendario aonde eu coloca minha passagem total que coloquei no mês no carão rio card e o site vai calcular quantos dias vai ter passando dentro do mês e qual é o dia que devo recarregar o cartão de novo
 
 This project was built with [Lovable](https://lovable.dev).
 
+**Live app**: https://rio-card-calendar.lovable.app
+
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/c5f8773e-261c-4471-b01d-cd5aebd76b9f).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +24,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
